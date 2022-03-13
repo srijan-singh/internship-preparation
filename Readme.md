@@ -18,6 +18,8 @@
 
 - [10 Common Coding Problem](https://www.youtube.com/watch?v=Peq4GCPNC5c)
 
+- [Linked List](https://www.youtube.com/watch?v=Hj_rA0dhr2I)
+
 - [Binary Tree](https://www.youtube.com/watch?v=fAAZixBzIAI)
 
 - [Graph Algorithm](https://www.youtube.com/watch?v=tWVWeAqZ0WU)
