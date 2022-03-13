@@ -24,4 +24,6 @@
 
 - [Graph Algorithm](https://www.youtube.com/watch?v=tWVWeAqZ0WU)
 
+- [Backtracking](https://www.youtube.com/watch?v=A80YzvNwqXA)
+
 - [Dynamic Programming](https://www.youtube.com/watch?v=oBt53YbR9Kk)
