@@ -23,6 +23,7 @@ def first_and_last(arr : list(), target : int()) -> tuple:
 if __name__ == "__main__":
 
     arr = [2,4,5,5,5,5,5,7,9,5,9]
-    target = 6
+    target = 5
+    #target = 6
 
     print(first_and_last(arr, target))
